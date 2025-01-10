@@ -1,0 +1,14 @@
+C:\Users\Hamza\Desktop\abz-cli\abz-cli\bin\Release\net8.0\abz-cli.exe
+C:\Users\Hamza\Desktop\abz-cli\abz-cli\bin\Release\net8.0\abz-cli.deps.json
+C:\Users\Hamza\Desktop\abz-cli\abz-cli\bin\Release\net8.0\abz-cli.runtimeconfig.json
+C:\Users\Hamza\Desktop\abz-cli\abz-cli\bin\Release\net8.0\abz-cli.dll
+C:\Users\Hamza\Desktop\abz-cli\abz-cli\bin\Release\net8.0\abz-cli.pdb
+C:\Users\Hamza\Desktop\abz-cli\abz-cli\obj\Release\net8.0\abz-cli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamza\Desktop\abz-cli\abz-cli\obj\Release\net8.0\abz-cli.AssemblyInfoInputs.cache
+C:\Users\Hamza\Desktop\abz-cli\abz-cli\obj\Release\net8.0\abz-cli.AssemblyInfo.cs
+C:\Users\Hamza\Desktop\abz-cli\abz-cli\obj\Release\net8.0\abz-cli.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\Desktop\abz-cli\abz-cli\obj\Release\net8.0\abz-cli.dll
+C:\Users\Hamza\Desktop\abz-cli\abz-cli\obj\Release\net8.0\refint\abz-cli.dll
+C:\Users\Hamza\Desktop\abz-cli\abz-cli\obj\Release\net8.0\abz-cli.pdb
+C:\Users\Hamza\Desktop\abz-cli\abz-cli\obj\Release\net8.0\abz-cli.genruntimeconfig.cache
+C:\Users\Hamza\Desktop\abz-cli\abz-cli\obj\Release\net8.0\ref\abz-cli.dll
